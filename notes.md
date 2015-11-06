@@ -28,5 +28,20 @@ Trunk: is the main line in history
 Branches: can be brought bacck to trunk after separation
 Tag
 
-###SourceTree
+##SourceTree
 free version git client for windows and mac
++ set preferences for you: name and email
++ start with folder and a readme.txt in it
+
+###Intro
++ stage file you want to commit
++ commit the staged file
++ view what has changed
+
+default branch: master
+on history you can see the history of changes
+
+
+###SmartGit	
+support for windows and mac
+
