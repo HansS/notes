@@ -42,6 +42,7 @@ default branch: master
 on history you can see the history of changes
 
 
+
 ###SmartGit	
 support for windows and mac
 
